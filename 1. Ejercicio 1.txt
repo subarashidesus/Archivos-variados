@@ -1,0 +1,15 @@
+1. Ejercicio 1
+Crea dos arrays de números con una posición pasada por teclado.
+
+
+Uno de ellos estará rellenado con números aleatorios y el otro apuntara al array anterior, después crea un array con el primer array usa de nuevo new con el primer array) con el mismo tamaño que se ha pasado por teclado, rellenalo de nuevo con números aleatorios
+
+
+Despues, crea un método que tenga como parámetros, los dos arrays y devuelva uno nuevo con la multiplicación de la posición 0 del array 1 con el del array2 y así sucesivamente- Por último, muestra el contedio de cada array
+
+Llama al final al recolector de basura.
+
+
+2. Crea un array de números de un tamaño pasado por teclado, el array contendrá números aleatorios entre 1 y 300 y mostrar quellos números que acaben en un dígito que nosotros le indiquemos por teclado (debes controlar que se introduce un numero correcto), estos deben guardarse en un nuevo array.
+
+Por ejemplo, en un array de 10 posiciones e indicamos mostrar os números acabados en 5, podrías salir 155, 25, etc.
